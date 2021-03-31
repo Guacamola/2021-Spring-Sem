@@ -9,7 +9,7 @@
 [Bbuilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
-/Packages
+Packages/
 
 # Never ignore asset meta data
 !/[Aa]ssets/**/*.meta 
@@ -51,6 +51,9 @@ ExportedObj/
 *.pidb.meta 
 *.pdb.meta 
 *.mbd.meta 
+
+# Unity3D generated file on crash reports
+sysinfo.txt 
 
 # Builds 
 *.apk
