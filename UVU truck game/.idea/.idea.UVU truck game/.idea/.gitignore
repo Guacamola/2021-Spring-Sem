@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.UVU truck game.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\omuhl\Documents\GitHub\2021 Spring Sem\UVU truck game\.idea\.idea.UVU truck game\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
